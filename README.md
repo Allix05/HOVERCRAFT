@@ -1,6 +1,6 @@
 # HOVERCRAFT
 Hovercraft A+ finishes the maze
-Team leader: Ali Mekouar
+    Team leader: Ali Mekouar
 
 Problem Definition: 
 The objective of this project is to design an autonomous hovercraft capable of completing a predefined track, shown in Figure 1 below, while maintaining stability, efficiency, and reliable navigation. The hovercraft must generate a controlled air cushion that enables smooth levitation above the surface and reduces friction, while remaining lightweight and structurally balanced. The design reinforces key engineering concepts such as fluid mechanics, electronics, and control systems.
