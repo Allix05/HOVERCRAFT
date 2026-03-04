@@ -1,5 +1,5 @@
 # HOVERCRAFT
-# Hovercraft A+ finishes the maze
+# Hovercraft finishes the maze A+
 # Team leader: Ali Mekouar
 
 Problem Definition: 
