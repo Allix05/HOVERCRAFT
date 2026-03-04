@@ -4,6 +4,7 @@
 #include <Servo.h>
 
 // The hovercraft successfully completed the maze ten times in a row during testing with an A+ final grade. 
+// Team leader: Ali Mekouar
 
 /* ---------------- PINOUT ---------------- */
 const uint8_t LIFT_PWM_PIN      = 6;
